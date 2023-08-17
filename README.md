@@ -19,7 +19,7 @@ React JS - алальма-ма́тер разрабтки на React, курсы
 ## Технологии :computer:
 <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
-  <span>  </span>
+:large_blue_diamond:
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="30" height="30">
 </span>
 
