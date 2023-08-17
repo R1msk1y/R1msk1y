@@ -14,11 +14,10 @@
 
 React JS - алальма-ма́тер разрабтки на React, курсы React Sneakers и React Pizza 2.0 **Арчакова Дениса**.
 
-## Ищу работу в IT компании, на позитцию frontend/react разработчик.
+## Ищу работу в IT компании, на позицию frontend/react разработчик.
 
 ## Контакты :iphone:
 <span>
-
   <a href="https://t.me/wkurganow">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" width="30" height="30">
   </a>
