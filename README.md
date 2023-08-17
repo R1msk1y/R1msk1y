@@ -18,11 +18,14 @@ React JS - алальма-ма́тер разрабтки на React, курсы
 
 ## Технологии :computer:
 <span>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30" height="30">
+  
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30" height="30">
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="30" height="30">
-https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg
-</span>
+
+
+
 
 ## Контакты 
 
