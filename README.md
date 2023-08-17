@@ -14,7 +14,7 @@
 
 React JS - алальма-ма́тер разрабтки на React, курсы React Sneakers и React Pizza 2.0 **Арчакова Дениса**.
 
-## Ищу работу в IT компании, на позицию frontend/react разработчик.
+## Ищу работу в IT компании, по созданию сайтов. Frontend/React/JavaScript разработка.
 
 ## Контакты :iphone:
 <span>
