@@ -6,17 +6,18 @@
 
 ### Всему учился и учусь сам, по информации находящейся в свободном доступе. Youtube лучший университет.
 
-### Верстку учил по урокам **Дмитрия Валака**, канал brainscloud.
+Верстку учил по урокам **Дмитрия Валака**, канал brainscloud.
 
-### Основы JavaScript - канал webcademy, **Юрия Ключевского**
+Основы JavaScript - канал webcademy, **Юрия Ключевского**
 
-### Основательное погружение в JS - курс **Богдана Стащука**, и его канал Bogdan_Stashchuk.
+Основательное погружение в JS - курс **Богдана Стащука**, и его канал Bogdan_Stashchuk.
 
-### React JS - алальма-ма́тер разрабтки на React, курсы React Sneakers и React Pizza 2.0 **Арчакова Дениса**.
+React JS - алальма-ма́тер разрабтки на React, курсы React Sneakers и React Pizza 2.0 **Арчакова Дениса**.
 
 ---
 
 ## Технологии :computer:
+
 
 <!--
 **R1msk1y/R1msk1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
