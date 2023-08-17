@@ -17,7 +17,8 @@ React JS - алальма-ма́тер разрабтки на React, курсы
 ---
 
 ## Технологии :computer:
-ggggg
+![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+## Контакты 
 
 
 <!--
