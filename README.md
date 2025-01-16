@@ -15,7 +15,7 @@
 
 ## Контакты :iphone:
 <span>
-  <a href="https://t.me/wkurganow">
+  <a href="https://t.me/vkurganow">
     <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png" width="30" height="30">
   </a>
 </span>
